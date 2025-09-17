@@ -1,5 +1,5 @@
 # apnacollege-demo
 This is my first git repository.
 <br>
-Auther - Shradha Khapra (with amol)
+Auther - Shradha Khapra with amol Kale
 
